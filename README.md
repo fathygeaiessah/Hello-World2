@@ -1,2 +1,2 @@
 # Hello-World2
-Github training
+Github training 2
